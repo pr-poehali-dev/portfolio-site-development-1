@@ -181,11 +181,8 @@ const Index = () => {
                 <Badge className="bg-background/90 text-primary border-border/50 backdrop-blur-sm">
                   {heroSlides[currentSlide].category}
                 </Badge>
-                <h1 className="text-6xl lg:text-8xl font-display text-primary leading-tight">
-                  Визуальное
-                  <br />
-                  <span className="text-muted-foreground">искусство</span>
-                </h1>
+                <h1 className="lg:text-8xl font-display leading-tight text-red-900 text-8xl font-extrabold mx-0 my-3">Алёна
+Кадетова</h1>
                 <p className="text-lg text-muted-foreground font-light leading-relaxed max-w-lg">
                   Создаю уникальные визуальные решения через призму современного 
                   минимализма и экспериментального подхода к форме
